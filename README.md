@@ -24,10 +24,10 @@ Günlük su tüketimini takip ederek, kullanıcıların daha sağlıklı yaşam 
 ## Ekran Görüntüleri
 
 ### 1. Veri Alımı Ekran Görüntüsü  
-<img src="assets/veri_alimi.png" alt="Veri Alımı" style="width:100%; max-width:800px;" />
+<img src="images/veri_alimi.png" alt="Veri Alımı" style="width:100%; max-width:800px;" />
 
 ### 2. Kontrol ve Ekleme Ekran Görüntüsü  
-<img src="assets/kontrol_ekleme.png" alt="Kontrol ve Ekleme" style="width:100%; max-width:800px;" />
+<img src="images/kontrol_ekleme.png" alt="Kontrol ve Ekleme" style="width:100%; max-width:800px;" />
 
 
 ---
