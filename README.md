@@ -8,25 +8,9 @@ Bu proje, kullanıcıların günlük su tüketimlerini kaydedip takip edebilecek
 
 Günlük su tüketimini takip ederek, kullanıcıların daha sağlıklı yaşam alışkanlıkları edinmelerine yardımcı olmak. Kullanıcılar, tarih bazında su tüketimlerini ekleyip, mevcut kayıtlarını görüntüleyebilir, düzenleyebilir veya silebilirler.
 
----
-
-## Dosya Yapısı
-
-/su-takip
-│
-├─ config.php # Veritabanı bağlantı ayarları
-├─ index.php # Giriş sayfası
-├─ register.php # Kayıt olma sayfası
-├─ dashboard.php # Kullanıcı paneli, su tüketimi kayıtları
-├─ edit.php # Kayıt düzenleme sayfası
-├─ delete.php # Kayıt silme işlemi
-├─ logout.php # Oturumu sonlandırma
-├─ assets/ # Proje görselleri
-│ ├─ veri_alimi.png
-│ └─ kontrol_ekleme.png
-└─ README.md # Proje açıklaması dosyası
 
 ---
+
 
 ## Kullanılan Teknolojiler
 
@@ -39,11 +23,12 @@ Günlük su tüketimini takip ederek, kullanıcıların daha sağlıklı yaşam 
 
 ## Ekran Görüntüleri
 
-### 1. Veri Alımı Ekran Görüntüsü (`images/veri_alimi.png`)  
-Kullanıcıların günlük su tüketim miktarlarını eklediği ve tarih seçimiyle veri girişinin yapıldığı ekran.
+### 1. Veri Alımı Ekran Görüntüsü  
+<img src="assets/veri_alimi.png" alt="Veri Alımı" style="width:100%; max-width:800px;" />
 
-### 2. Kontrol ve Ekleme Ekran Görüntüsü (`images/kontrol_ekleme.png`)  
-Mevcut su tüketimi kayıtlarının listelendiği, düzenleme ve silme işlemlerinin yapıldığı kontrol paneli.
+### 2. Kontrol ve Ekleme Ekran Görüntüsü  
+<img src="assets/kontrol_ekleme.png" alt="Kontrol ve Ekleme" style="width:100%; max-width:800px;" />
+
 
 ---
 
