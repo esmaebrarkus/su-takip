@@ -1,8 +1,8 @@
 
 ## 📷 Ekran Görüntüleri
 
-<img src="veri_alimi.png" alt="Veri Alımı Ekranı" width="500"/>
-<img src="kontrol_ekleme.png" alt="Kayıt Ekleme ve Kontrol" width="500"/>
+<img src="images/veri_alimi.png" alt="Veri Alımı Ekranı" width="500"/>
+<img src="images/kontrol_ekleme.png" alt="Kayıt Ekleme ve Kontrol" width="500"/>
 
 ## 📺 Tanıtım Videosu
 
